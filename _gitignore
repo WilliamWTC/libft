@@ -1,0 +1,5 @@
+a.out
+*.DS_store*
+*.swo
+*.swp
+*.gch
