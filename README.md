@@ -1,4 +1,4 @@
-# libft
+#   libft (core_project)
 
 -	A recreation of the functions of the standard C library.
 	This project makes you to take the time to re-write those 
@@ -24,7 +24,7 @@ make
 ```
 make re
 ```
-## Usage
+##  Usage
 
 -	To use this library, `#include "libft.h"` will need to be added to 
 	the list of included libraries & will need to be in the correct directory.
