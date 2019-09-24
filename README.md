@@ -9,9 +9,7 @@
 
 	- The only allowed functions to help recreate are:
 	
-	write
-	malloc
-	free
+	write, malloc & free.
 
 ### Compilation
 
