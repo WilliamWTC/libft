@@ -39,3 +39,11 @@ make re
 gcc [your main] [other files] [flags] libft.a
 ./a.out
 ```
+
+## WeThinkCode :
+
+**Mandatory:** 100/100  
+**Bonus:** 0/25  
+  
+  
+**Total:** 100/100
